@@ -4,7 +4,8 @@
 @description
 
 # Understanding Components
-
+A Component is a fragment of code that can be plugged into another body of code and behave as expected. 
+In other words, a component is just a directive that works off of the inputs given and it can be used in any template anywhere.
 In Angular, a Component is a special kind of {@link guide/directive directive} that uses a simpler
 configuration which is suitable for a component-based application structure.
 
